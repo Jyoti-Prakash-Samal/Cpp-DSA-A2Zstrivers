@@ -1,1 +1,5 @@
-Bou maribo
+Enter the elements of the 2D array (2 rows and 3 columns):
+The sum of the first row is:
+10
+The sum of the second row is:
+14
